@@ -1,5 +1,3 @@
-Here's a professional and detailed **README** section for your chatbot project, tailored for GitHub:
-
 ---
 
 # Doctors Appointments Assistant Chatbot
